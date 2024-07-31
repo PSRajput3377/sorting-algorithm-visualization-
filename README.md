@@ -25,4 +25,6 @@ download python latest version from
 https://www.python.org/
 
 install pygame using command in terminal 
-pip install pygame 
+
+
+<  pip install pygame  >
