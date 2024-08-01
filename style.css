@@ -1,0 +1,17 @@
+.container-fluid{
+    background-color: rgb(0, 170, 255);
+    font-size: 20px;
+    font-weight: 430;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+.card{
+    margin: 20px;
+}
+
+.main{
+    background-color: black;
+}
