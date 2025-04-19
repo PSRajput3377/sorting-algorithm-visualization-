@@ -1,38 +1,49 @@
-Introduction
+# Sorting Algorithm Visualizer 🎯
 
 
-Sorting Algorithm Visualization is a web-based tool designed to help users understand and 
-compare different sorting algorithms through visual animations.
-It showcases popular sorting algorithms like Bubble Sort, Merge Sort, Quick Sort, 
-and more, illustrating how each algorithm works and their time complexities.
+This is a **sorting algorithm visualization tool** built using **Python and Pygame**. The application allows you to visually understand how popular sorting algorithms like **Quick Sort**, **Bubble Sort**, **Merge Sort**, etc., work step by step.
 
-Features
+> ⚠️ This is currently a **desktop application** that requires Python and Pygame to run. The goal is to convert this into a fully browser-based website soon!
 
+---
 
-Visual representation of multiple sorting algorithms
-Step-by-step explanation and visualization
-Real-time adjustment of array size and sorting speed
-Interactive controls for play, pause, and reset
-Algorithm comparison with time complexity analysis
+## 🖥️ Features
 
-Getting Started
+- Visually see how different sorting algorithms work.
+- Dynamic updates of sorting steps in real time.
+- Clean and easy-to-understand code.
+- Currently supports:
+  - Quick Sort
+  - Merge Sort
+  - Bubble Sort
+  - Insertion Sort
+  - (More can be added!)
 
+---
 
-To set up and run the sorting algorithm visualization project using Pygame, follow these steps.
-
-Prerequisites
-
+## 📦 Requirements
 
 Make sure you have the following installed on your system:
 
-1.Python (3.6 or later)
-2.Pygame
+- [Python 3.x](https://www.python.org/downloads/)
+- [Pygame](https://www.pygame.org/wiki/GettingStarted)
 
+Install Pygame using pip if not already installed:
 
-download python latest version from
-https://www.python.org/
+```bash
+pip install pygame
+🚀 How to Run
+Clone the repository
 
-install pygame using command in terminal 
+bash
+Copy
+Edit
+git clone https://github.com/PSRajput3377/sorting-algorithm-visualization-.git
+cd sorting-algorithm-visualization-
+Open a terminal and run any algorithm file, for example:
 
-
-<  pip install pygame  >
+bash
+Copy
+Edit
+python quicksort.py
+The Pygame window will open and show the visualization in real time.
