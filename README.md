@@ -35,15 +35,13 @@ pip install pygame
 🚀 How to Run
 Clone the repository
 
-bash
-Copy
-Edit
+
 git clone https://github.com/PSRajput3377/sorting-algorithm-visualization-.git
 cd sorting-algorithm-visualization-
+
 Open a terminal and run any algorithm file, for example:
 
-bash
-Copy
-Edit
+
 python quicksort.py
+
 The Pygame window will open and show the visualization in real time.
